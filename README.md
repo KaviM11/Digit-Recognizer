@@ -10,10 +10,15 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 Scaling of the images is done.
 
 ###  Dataset  is split into Training, Testing, and Validation Sets
-x_train shape: (55000, 28, 28)
+
 55000 train samples
+
 10000 test samples
+
 5000 validation samples
+
+##### x_train shape: (55000, 28, 28)
+
 
 # Model creation 
 
